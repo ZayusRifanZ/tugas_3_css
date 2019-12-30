@@ -1,0 +1,20 @@
+p {
+  background: gray;
+}
+.p1 {
+  background: #c86d00;
+}
+.p2 {
+  background: blue;
+  color: white;
+}
+.p3 {
+  background: white;
+  border: 1px solid gray;
+  font-family: monospace, Arial, sans-serif;
+  font-size: 20px;
+}
+.p4 {
+  font-weight: bolder;
+  font-size: 20px;
+}
